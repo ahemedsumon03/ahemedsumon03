@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sumon Mia</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh.I learning Mern Stack Development</h3>
 
+<img src="https://www.facebook.com/photo/?fbid=1854433498244607&set=a.189722884715685" alt="banner" width="100%" height="250px"/>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahemedsumon03&label=Profile%20views&color=0e75b6&style=flat" alt="ahemedsumon03" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahemedsumon03" alt="ahemedsumon03" /></a> </p>
