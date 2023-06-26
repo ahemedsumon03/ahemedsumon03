@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sumon Mia</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh.I learning Mern Stack Development</h3>
+<h3 align="center">A passionate front-end developer from Bangladesh. I learning Mern Stack Development</h3>
 
 <img src="https://scontent.fdac5-2.fna.fbcdn.net/v/t39.30808-6/317246714_1854437441577546_3409062662026401892_n.png?stp=dst-png_s960x960&_nc_cat=101&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeH4HCylTJGiArGya4JhWLNJc-U-wDLpdL5z5T7AMul0vmvlxbgSYEmAcnVzN4t_OKY-BXlsrnqKt0WRh2eSWXc7&_nc_ohc=L8UUkeNMvGsAX9qniVK&_nc_ht=scontent.fdac5-2.fna&oh=00_AfDAfuaK5rNl00RmQ1Nsz6wlXY-P8q3BQbwhN79cU7iCXA&oe=638AC38F" alt="banner" width="100%" height="350px" style="object-fit:'contain'"/>
 
