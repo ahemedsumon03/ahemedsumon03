@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sumon Mia</h1>
-<h3 align="center">A passionate front-end developer from Bangladesh. I learning Mern Stack Development</h3>
+<h3 align="center">A passionate Front-end developer from Bangladesh</h3>
 
 <img src="https://img.freepik.com/premium-vector/web-development-concept-isometric-landing-page-team-develops-optimizes-layout-site_9209-7568.jpg?w=2000" alt="banner" width="100%" height="350px" style="object-fit:'contain'"/>
 
